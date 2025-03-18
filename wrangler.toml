@@ -1,0 +1,10 @@
+name = "fruition-worker"
+type = "javascript"
+
+account_id = "07e544fea61aa358f422082064b27680"
+zone_id = "ad129dab54d3503d1d209ca7d2292622"
+
+workers_dev = true
+
+[build]
+upload.main = "worker.js"
